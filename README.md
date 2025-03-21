@@ -1,5 +1,10 @@
-# ollama-langchain-rag-learning
-This project integrates Ollama, LangChain, and RAG for LLM-based applications.
+# Welcome to the Ollama LangChain RAG Learning Project
+
+Hi there! I'm Richard Chung, and thank you for visiting this project. This repository is dedicated to learning and experimenting with **Ollama**, **LangChain**, and **RAG (Retrieval-Augmented Generation)** to build powerful language model applications.
+
+Feel free to explore, experiment, and contribute. If you have any questions or suggestions, don't hesitate to reach out!
+
+Happy coding! 🚀
 
 # Ollama LangChain RAG Learning Project
 
